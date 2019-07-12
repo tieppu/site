@@ -50,8 +50,8 @@ layout: default
 <ul class="list-notes">
   {% for post in site.posts %}
     <li class="note">
-      <time class="small">{{ note.date | date: "%b %d, %Y" }}</time> <a href="{{ site.url }}{{ post.url }}" class="small">#</a>
-      <div>{{ post.title }}</div>
+      <time class="small">{{ post.date | date_to_string }}</time> <a href="{{ site.url }}{{ post.url }}" class="small"># {{ post.title }}</a>
+      <div></div>
     </li>
   {% endfor %}
 </ul>
