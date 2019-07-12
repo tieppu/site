@@ -1,3 +1,15 @@
+var description = [
+  "https://data.tiep.me/assets/img/icons/small/rank_0.gif",
+  "https://data.tiep.me/assets/img/icons/small/rank_21.gif",
+  "https://data.tiep.me/assets/img/icons/small/rank_18.gif",
+  "https://data.tiep.me/assets/img/icons/small/rank_19.gif",
+  "https://data.tiep.me/assets/img/icons/small/rank_20.gif"
+];
+
+var size = description.length
+var x = Math.floor(size*Math.random())
+document.getElementById('image').src=description[x];
+
 const emoji = ['☁️', '🆗', '👩🏻‍💻', '🎮', '🌵', '🌿', '📬']
 const randomEmoji = document.querySelector('.js-random-emoji')
 
