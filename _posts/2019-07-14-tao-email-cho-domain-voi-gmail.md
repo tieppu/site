@@ -40,6 +40,9 @@ Một quá trình đơn giản có thể được hoàn thành trong vòng chưa
 **Bước 4:** Bây giờ, hãy mở hộp thư đến Gmail của bạn và đi đến tùy chọn ' **Cài đặt** → **Tài khoản và Nhập** → **Gửi thư bằng địa chỉ:** → **Thêm địa chỉ email khác** '. Tại đây bạn có thể cấu hình bao nhiêu địa chỉ email tên miền tùy chỉnh mà bạn muốn. Một thiết lập làm việc mẫu được hiển thị dưới đây.
 <sub><sub>Lưu ý quan trọng là bạn phải bỏ tích ở **Xử lý như bí danh**</sub></sub>
 
+![Taipei](https://data.tiep.me/assets/img/images/og-images/gmail/gmail1.png)
+
+
 
 ## Một số dịch vụ Mail for domain miễn phí khác
 
