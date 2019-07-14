@@ -72,7 +72,7 @@ tiếp theo | **Thêm tài khoản** | và làm theo hướng dẫn của Gmail 
 
 Sau khi vào mục **Soạn thư** bạn sẽ thấy địa chỉ cá nhân cho tên miền của bạn được hiển thị, kể từ lúc đó bạn sẽ **nhận** và **gửi** thư từ địa chỉ email tên miền của mình trực tiếp bằng **Gmail** mà không cần đến các dịch vụ cung cấp mail cho tên miền rườm rà phiền phức và hay có sự cố khác đi.
 
-Đời sẽ đơn giản hơn.
+Đời sẽ đơn giản hơn. vì nó miễn phí, bởi nếu muốn dùng bản **Premium** của Gmail có tên gọi là [**G Suite**](https://gsuite.google.com.vn/intl/vi/) thì giá của nó phải là **$6** trên tháng cơ 😂😂😂
 
 
 
