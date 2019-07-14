@@ -20,7 +20,7 @@ Trong khi soạn email, tôi có thể dễ dàng chọn các địa chỉ email
 
 Một quá trình đơn giản có thể được hoàn thành trong vòng chưa đầy 5 phút. Đây là cách để làm. 
 
-**Bước 1:** Chuyển đến dịch vụ chuyển tiếp email [ImprovMX](https://improvmx.com).
+**Bước 1:** Chuyển đến dịch vụ chuyển tiếp email [**ImprovMX**](https://improvmx.com).
 
 **Bước 2:** Sao chép các bản ghi MX sau và thêm chúng vào bản ghi máy chủ DNS của tên miền của bạn.
 
