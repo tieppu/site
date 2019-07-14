@@ -37,7 +37,11 @@ Một quá trình đơn giản có thể được hoàn thành trong vòng chưa
 
 ![Form nhập tên miền và email bạn dùng gmail](https://data.tiep.me/assets/img/images/og-images/gmail/add_domain.png)
 
-**Bước 4:** Bây giờ, hãy mở hộp thư đến Gmail của bạn và đi đến tùy chọn ' **Cài đặt** → **Tài khoản và Nhập** → **Gửi thư bằng địa chỉ:** → **Thêm địa chỉ email khác** '. Tại đây bạn có thể cấu hình bao nhiêu địa chỉ email tên miền tùy chỉnh mà bạn muốn. Một thiết lập làm việc mẫu được hiển thị dưới đây.
+**Bước 4:** bạn phải tạo **Google 2-Step Verification** hay còn được biết đến với tiếng việt là [**Xác minh 2 bước**](https://myaccount.google.com/security). Bạn phải cung cấp số điện thoại đang dùng smartphone để tiến hành tạo xác minh 2 bước cho **Gmail** của mình. Sau khi hoàn thành hãy quay trở lại trang [**tài khoản Google - phân mục Bảo mật này**](https://myaccount.google.com/security) để chọn vào mục [**Mật khẩu ứng dụng hay tiếng anh là App Passwords**](https://myaccount.google.com/apppasswords?utm_source=google-account&utm_medium=web) nhớ tích chọn **Thư** và ô kế bên là **Mac** nhé. Sau khi nó hiện ra cái mật khẩu loằng ngoằng chia đoạn ấy thì copy hết chỗ pass mới tạo đó để chuyển sang bước tiếp theo.
+
+
+
+**Bước 5:** Bây giờ, hãy mở hộp thư đến Gmail của bạn và đi đến tùy chọn ' **Cài đặt** → **Tài khoản và Nhập** → **Gửi thư bằng địa chỉ:** → **Thêm địa chỉ email khác** '. Tại đây bạn có thể cấu hình bao nhiêu địa chỉ email tên miền tùy chỉnh mà bạn muốn. Một thiết lập làm việc mẫu được hiển thị dưới đây.
 <sub><sub>Lưu ý quan trọng là bạn phải bỏ tích ở **Xử lý như bí danh**</sub></sub>
 
 ![Taipei](https://data.tiep.me/assets/img/images/og-images/gmail/gmail1.png)
