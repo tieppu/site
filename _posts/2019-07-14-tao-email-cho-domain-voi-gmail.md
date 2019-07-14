@@ -39,12 +39,40 @@ Một quá trình đơn giản có thể được hoàn thành trong vòng chưa
 
 **Bước 4:** bạn phải tạo **Google 2-Step Verification** hay còn được biết đến với tiếng việt là [**Xác minh 2 bước**](https://myaccount.google.com/security). Bạn phải cung cấp số điện thoại đang dùng smartphone để tiến hành tạo xác minh 2 bước cho **Gmail** của mình. Sau khi hoàn thành hãy quay trở lại trang [**tài khoản Google - phân mục Bảo mật này**](https://myaccount.google.com/security) để chọn vào mục [**Mật khẩu ứng dụng hay tiếng anh là App Passwords**](https://myaccount.google.com/apppasswords?utm_source=google-account&utm_medium=web) nhớ tích chọn **Thư** và ô kế bên là **Mac** nhé. Sau khi nó hiện ra cái mật khẩu loằng ngoằng chia đoạn ấy thì copy hết chỗ pass mới tạo đó để chuyển sang bước tiếp theo.
 
+![Xác minh 2 bước phải được bật](https://data.tiep.me/assets/img/images/og-images/gmail/xacminh2buoc.png)
+
+*xác minh 2 bước phải được bật*
+
+![Tạo mật khẩu ứng dụng](https://data.tiep.me/assets/img/images/og-images/gmail/apppassword.png)
+
+*Tạo mật khẩu ứng dụng*
+
 
 
 **Bước 5:** Bây giờ, hãy mở hộp thư đến Gmail của bạn và đi đến tùy chọn ' **Cài đặt** → **Tài khoản và Nhập** → **Gửi thư bằng địa chỉ:** → **Thêm địa chỉ email khác** '. Tại đây bạn có thể cấu hình bao nhiêu địa chỉ email tên miền tùy chỉnh mà bạn muốn. Một thiết lập làm việc mẫu được hiển thị dưới đây.
 <sub><sub>Lưu ý quan trọng là bạn phải bỏ tích ở **Xử lý như bí danh**</sub></sub>
 
-![Taipei](https://data.tiep.me/assets/img/images/og-images/gmail/gmail1.png)
+![thêm mail tên miền vào gmail](https://data.tiep.me/assets/img/images/og-images/gmail/gmail1.png)
+
+*thêm mail tên miền vào gmail*
+
+![Gõ mật khẩu ứng dụng vào cấu hình smtp](https://data.tiep.me/assets/img/images/og-images/gmail/gmail2.png)
+
+*Nhập các thông số ta có được từ **bước 4***
+
+**Yêu cầu** | **nhập** | **ghi chú**
+--- | --- | ---
+Máy chủ SMTP | smtp.gmail.com | cổng **587**
+Tên người dùng | gmail của bạn@gmail.com | dùng @gmail của bạn làm user
+Mật khẩu | dán mật khẩu ứng dụng bạn lấy được từ **bước 4** | đây là dòng mật khẩu ứng dụng bạn tạo ở bước 4, không phải mật khẩu gmail của bạn vẫn hay đăng nhập đâu :v
+Kết nối an toán sử dụng TLS | **được khuyến nghị** | mặc định
+tiếp theo | **Thêm tài khoản** | và làm theo hướng dẫn của Gmail sau đó nhé.
+
+[**ImprovMX**](https://improvmx.com). dịch vụ bắt tất cả các địa chỉ email được gửi đến tên miền của bạn và chuyển chúng vào tài khoản Gmail của bạn. đảm bảo bạn có thể dễ dàng gửi email đến đối tượng mục tiêu của mình bằng các địa chỉ miền tùy chỉnh được định cấu hình của mình.
+
+Sau khi vào mục **Soạn thư** bạn sẽ thấy địa chỉ cá nhân cho tên miền của bạn được hiển thị, kể từ lúc đó bạn sẽ **nhận** và **gửi** thư từ địa chỉ email tên miền của mình trực tiếp bằng **Gmail** mà không cần đến các dịch vụ cung cấp mail cho tên miền rườm rà phiền phức và hay có sự cố khác đi.
+
+Đời sẽ đơn giản hơn.s
 
 
 
