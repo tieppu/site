@@ -10,7 +10,38 @@ Cùng vô số các tính năng hỗn hợp khác nhau phục vụ lưu trữ, l
 
 ## Vì sao tôi chọn Gmail chứ không phải dịch vụ miễn phí nào khác?
 
-Thường mặc định bạn sẽ buộc phải nghĩ đến dịch vụ email cho tên miền miễn phí với một số nhà cung cấp lớn cho phép dùng miễn phí như:
+Thường mặc định bạn sẽ buộc phải nghĩ đến dịch vụ email cho tên miền miễn phí với một số nhà cung cấp lớn cho phép dùng miễn phí như Zoho Mail, Migadu, hay Yandex.Mail for domain nhưng đều có giới hạn nhất định của nó và đôi khi là phiền phức vì sự cố mà sẽ được liệt kê các thông số ở cuối bài, chú ý tham khảo để đưa ra quyết định cuối cùng.
+
+## Hướng dẫn Tạo email tên miền riêng miễn phí với Gmail
+
+Bản thân <mark>tiep.me</mark> sử dụng dịch vụ Gmail của Google để tăng sức mạnh cho giao tiếp email tên miền tùy chỉnh của mình. Gmail cung cấp một tính năng độc đáo thông qua đó tôi có thể thêm nhiều địa chỉ tên miền tùy chỉnh ngay trong tài khoản Gmail của mình. 
+
+Trong khi soạn email, tôi có thể dễ dàng chọn các địa chỉ email tùy chỉnh cần thiết từ menu thả xuống. Rất đơn giản và được tích hợp cùng với email cũ của mình dùng chính trước khi có tên miền, vì vậy không phải chuyển qua chuyển lại hay phải báo cáo với mọi người về sự thay đổi.
+
+Một quá trình đơn giản có thể được hoàn thành trong vòng chưa đầy 5 phút. Đây là cách để làm. 
+
+**Bước 1:** Chuyển đến dịch vụ chuyển tiếp email [ImprovMX](https://improvmx.com).
+
+**Bước 2:** Sao chép các bản ghi MX sau và thêm chúng vào bản ghi máy chủ DNS của tên miền của bạn.
+
+<sub><sub>xem mẫu của tiep.me</sub></sub>
+
+![Mẫu mx record của tiep.me](https://data.tiep.me/assets/img/images/og-images/gmail/dns_mx.png)
+
+**Host** | **Value** | **Priority**
+--- | --- | ---
+@ | mx1.improvmx.com | 10
+@ | mx2.improvmx.com | 20
+
+**Bước 3:** Thêm tên miền và địa chỉ Gmail nơi bạn muốn sử dụng địa chỉ. Sau đó, nhấp vào nút xác minh. Một thiết lập mẫu được hiển thị dưới đây.
+
+![Form nhập tên miền và email bạn dùng gmail](https://data.tiep.me/assets/img/images/og-images/gmail/add_domain.png)
+
+**Bước 4:** Bây giờ, hãy mở hộp thư đến Gmail của bạn và đi đến tùy chọn ' **Cài đặt** → **Tài khoản và Nhập** → **Gửi thư bằng địa chỉ:** → **Thêm địa chỉ email khác** '. Tại đây bạn có thể cấu hình bao nhiêu địa chỉ email tên miền tùy chỉnh mà bạn muốn. Một thiết lập làm việc mẫu được hiển thị dưới đây.
+<sub><sub>Lưu ý quan trọng là bạn phải bỏ tích ở **Xử lý như bí danh**</sub></sub>
+
+
+## Một số dịch vụ Mail for domain miễn phí khác
 
 > [Zoho Mail](https://www.zoho.com/mail/) for domain. Đây là một trong những dịch vụ email phổ biến và được sử dụng rộng rãi nhất mà bạn có thể dễ dàng sử dụng với tên miền tùy chỉnh của trang web. Gói miễn phí đủ tốt cho hầu hết người dùng và hoàn toàn không có bất kỳ quảng cáo phiền phức nào. Quá trình thiết lập cũng khá dễ dàng cho một giáo dân. Sau đây là một số tính năng ấn tượng của dịch vụ lưu trữ email này. 
 
@@ -45,6 +76,4 @@ ___
 > Giao diện web theo chủ đề - Giao diện web thanh lịch có thể được tùy chỉnh bằng các chủ đề khác nhau phù hợp với sở thích của riêng bạn.
 
 > Hỗ trợ IMAP / POP3 - Điều này cho phép bạn dễ dàng định cấu hình hầu hết mọi ứng dụng email để truy cập email tên miền tùy chỉnh của mình trong một ứng dụng bên ngoài.
-
-___
 
