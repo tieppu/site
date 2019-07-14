@@ -36,3 +36,15 @@ ___
 
 ___
 
+> [Yandex.Mail for Domain](https://connect.yandex.com) Đây là một dịch vụ lưu trữ email phổ biến khác có sẵn cho các miền tùy chỉnh. Nó có một giao diện tối thiểu và hoạt động như sự quyến rũ mà không gặp rắc rối. Nếu bạn đang tìm kiếm một dịch vụ lưu trữ email đáng tin cậy cho tên miền của trang web của bạn, thì dịch vụ lưu trữ này là một trong những ứng cử viên tốt nhất cho cùng. Các tính năng sau được bao gồm trong tài khoản email tên miền tùy chỉnh của bạn khi sử dụng dịch vụ này.
+
+> 1000 hộp thư - Bây giờ đó là một con số lớn khi nói đến việc tạo nhiều địa chỉ email bằng một tên miền tùy chỉnh.
+
+> Dung lượng hộp thư đến không giới hạn - Nếu bạn đang chơi công bằng và không lạm dụng đặc quyền, bạn có thể dễ dàng yên tâm về không gian hộp thư đến không giới hạn.
+
+> Giao diện web theo chủ đề - Giao diện web thanh lịch có thể được tùy chỉnh bằng các chủ đề khác nhau phù hợp với sở thích của riêng bạn.
+
+> Hỗ trợ IMAP / POP3 - Điều này cho phép bạn dễ dàng định cấu hình hầu hết mọi ứng dụng email để truy cập email tên miền tùy chỉnh của mình trong một ứng dụng bên ngoài.
+
+___
+
