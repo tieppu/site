@@ -21,3 +21,18 @@ Thường mặc định bạn sẽ buộc phải nghĩ đến dịch vụ email 
 > Điện thoại di động, máy tính để bàn và máy khách web - Người dùng có thể sử dụng giao diện web để truy cập nhanh email của họ ngay cả trên các máy tính dùng chung. Tương tự, các ứng dụng di động cho phép bạn giao tiếp dễ dàng thông qua điện thoại thông minh của bạn.
 
 > Bảng điều khiển mạnh mẽ - Bảng điều khiển quản trị bao gồm vô số tùy chọn để định cấu hình chính sách, quy tắc và bộ lọc để dễ dàng quản lý cả người dùng và luồng lưu lượng email.
+
+___
+
+> [Migadu](https://www.migadu.com/en/index.html) : Dịch vụ lưu trữ email đơn giản này cung cấp một gói miễn phí linh hoạt có thể được sử dụng để cung cấp năng lượng cho giao tiếp email tên miền tùy chỉnh của bạn. Nếu bạn đang chạy trang web của mình trên máy chủ Digital Ocean, dịch vụ này cho phép bạn dễ dàng định cấu hình các bản ghi tên miền email chỉ bằng một cú nhấp chuột. Các tính năng sau đây là một phần của dịch vụ lưu trữ email đơn giản và thân thiện với người dùng này cho một miền tùy chỉnh.
+
+> Hộp thư không giới hạn - Không có giới hạn về số lượng địa chỉ bạn có thể tạo cho tên miền của mình, quá đủ cho một gói miễn phí.
+
+> Dung lượng hộp thư đến 1GB - Với dung lượng lưu trữ lớn đó, bạn có thể dễ dàng lưu hàng ngàn văn bản và email HTML phong phú.
+
+> Giao diện web đơn giản - Giao diện web nhanh như chớp mặc dù bạn có thể định cấu hình ứng dụng email yêu thích của mình ngay trên màn hình.
+
+> Dễ dàng thiết lập - Toàn bộ thiết lập rất đơn giản và bao gồm một vài bước thiết lập hồ sơ lưu trữ cho email.
+
+___
+
