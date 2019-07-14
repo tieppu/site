@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2019-07-12
+date: 2019-07-14
 title: Tạo email tên miền riêng miễn phí với Gmail
 ---
 

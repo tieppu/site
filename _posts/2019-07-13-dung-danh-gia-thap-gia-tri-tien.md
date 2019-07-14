@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2019-07-12
+date: 2019-07-13
 title: Đừng bao giờ đánh giá thấp giá trị đồng tiền
 ---
 
