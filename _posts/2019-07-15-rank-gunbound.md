@@ -16,8 +16,8 @@ Các tên cấp độ được **tô đậm** thường là Special Level, cấp
 
 | Level        | Name           | GP  |
 | ------------- |:--------------| -----:|
-| ![Administrator level](https://data.tiep.me/assets/img/icons/small/rank_0.gif)      | Administrator level |  |
-| ![VIP](https://data.tiep.me/assets/img/icons/small/rank_42.gif)      | VIP |  |
+| ![Administrator level](https://data.tiep.me/assets/img/icons/small/rank_0.gif)      | **Administrator level** |  |
+| ![VIP](https://data.tiep.me/assets/img/icons/small/rank_42.gif)      | **VIP** |  |
 | ![Silver Dragon](https://data.tiep.me/assets/img/icons/small/rank_24.gif)      | Silver Dragon | 714,718 |
 | ![Red Dragon](https://data.tiep.me/assets/img/icons/small/rank_23.gif)      | Red Dragon | 632,370 |
 | ![Blue Dragon](https://data.tiep.me/assets/img/icons/small/rank_22.gif)      | Blue Dragon | 473,859 |
