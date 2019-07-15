@@ -23,9 +23,9 @@ Các tên cấp độ được **tô đậm** thường là Special Level, cấp
 | ![Blue Dragon](https://data.tiep.me/assets/img/icons/small/rank_22.gif)      | Blue Dragon | 473,859 |
 | ![Diamond Hole](https://data.tiep.me/assets/img/icons/small/rank_21.gif)      | Diamond Hole | 246,264 |
 | ![Red Ruby Hole](https://data.tiep.me/assets/img/icons/small/rank_20.gif)      | Red Ruby Hole | 121,261 |
-| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
-| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
-| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Sapphire Hole](https://data.tiep.me/assets/img/icons/small/rank_19.gif)      | Sapphire Hole | 74,831 |
+| ![Violet Hole](https://data.tiep.me/assets/img/icons/small/rank_18.gif)      | Violet Hole | 52,593 |
+| ![Gold Double Sided Axe+	](https://data.tiep.me/assets/img/icons/small/rank_17.gif)      | Gold Double Sided Axe+	 | 38,888 |
 | ![Rank](imageurl)      | nameoftherank | GPPPPPP |
 | ![Rank](imageurl)      | nameoftherank | GPPPPPP |
 | ![Rank](imageurl)      | nameoftherank | GPPPPPP |
