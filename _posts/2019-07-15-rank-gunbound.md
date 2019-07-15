@@ -26,7 +26,7 @@ Các tên cấp độ được **tô đậm** thường là Special Level, cấp
 | ![Sapphire Hole](https://data.tiep.me/assets/img/icons/small/rank_19.gif)      | Sapphire Hole | 74,831 |
 | ![Violet Hole](https://data.tiep.me/assets/img/icons/small/rank_18.gif)      | Violet Hole | 52,593 |
 | ![Gold Double Sided Axe+	](https://data.tiep.me/assets/img/icons/small/rank_17.gif)      | Gold Double Sided Axe+	 | 38,888 |
-| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Gold Double Sided Axe](https://data.tiep.me/assets/img/icons/small/rank_16.gif)      | Gold Double Sided Axe | 25,397 |
 | ![Rank](imageurl)      | nameoftherank | GPPPPPP |
 | ![Rank](imageurl)      | nameoftherank | GPPPPPP |
 | ![Rank](imageurl)      | nameoftherank | GPPPPPP |
