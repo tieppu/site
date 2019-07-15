@@ -16,8 +16,8 @@ Các tên cấp độ được **tô đậm** thường là Special Level, cấp
 
 | Level        | Name           | GP  |
 | ------------- |:--------------| -----:|
-| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
-| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Administrator level](https://data.tiep.me/assets/img/icons/small/rank_0.gif)      | Administrator level |  |
+| ![VIP](https://data.tiep.me/assets/img/icons/small/rank_42.gif)      | VIP |  |
 | ![Rank](imageurl)      | nameoftherank | GPPPPPP |
 | ![Rank](imageurl)      | nameoftherank | GPPPPPP |
 | ![Rank](imageurl)      | nameoftherank | GPPPPPP |
