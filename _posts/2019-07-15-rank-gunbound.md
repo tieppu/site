@@ -31,12 +31,14 @@ Các tên cấp độ được **tô đậm** thường là Special Level, cấp
 | ![Silver Double Sided Axe](https://data.tiep.me/assets/img/icons/small/rank_14.gif)      | Silver Double Sided Axe | 12,947 |
 | ![Metal Double Sided Axe+](https://data.tiep.me/assets/img/icons/small/rank_13.gif)      | Metal Double Sided Axe+ | 9,599 |
 | ![Metal Double Sided Axe](https://data.tiep.me/assets/img/icons/small/rank_12.gif)      | Metal Double Sided Axe | 6,900 |
-| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
-| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
-| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
-| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
-| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
-| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
-| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
-| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
-| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Double Gold Axe](https://data.tiep.me/assets/img/icons/small/rank_11.gif)      | Double Gold Axe | 6,000 |
+| ![Gold Axe](https://data.tiep.me/assets/img/icons/small/rank_10.gif)      | Gold Axe | 5,000 |
+| ![Double Silver Axe](https://data.tiep.me/assets/img/icons/small/rank_9.gif)      | Double Silver Axe | 4,200 |
+| ![Silver Axe](https://data.tiep.me/assets/img/icons/small/rank_8.gif)      | Silver Axe | 3,500 |
+| ![Double Metal Axe](https://data.tiep.me/assets/img/icons/small/rank_7.gif)      | Double Metal Axe | 2,800 |
+| ![Metal Axe](https://data.tiep.me/assets/img/icons/small/rank_6.gif)      | Metal Axe | 2,300 |
+| ![Double Stone Axe](https://data.tiep.me/assets/img/icons/small/rank_5.gif)      | Double Stone Axe | 1,800 |
+| ![Stone Axe](https://data.tiep.me/assets/img/icons/small/rank_4.gif)      | Stone Axe | 1,500 |
+| ![Double Wood Hammer](https://data.tiep.me/assets/img/icons/small/rank_3.gif)      | Double Wood Hammer | 1,200 |
+| ![Wood Hammer](https://data.tiep.me/assets/img/icons/small/rank_2.gif)      | Wood Hammer | 1,100 |
+| ![A Little Chick](https://data.tiep.me/assets/img/icons/small/rank_1.gif)      | A Little Chick | The rest |
