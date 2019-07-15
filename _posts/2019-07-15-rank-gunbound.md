@@ -16,6 +16,27 @@ Các tên cấp độ được **tô đậm** thường là Special Level, cấp
 
 | Level        | Name           | GP  |
 | ------------- |:--------------| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
