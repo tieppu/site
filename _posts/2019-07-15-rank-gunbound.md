@@ -29,8 +29,8 @@ Các tên cấp độ được **tô đậm** thường là Special Level, cấp
 | ![Gold Double Sided Axe](https://data.tiep.me/assets/img/icons/small/rank_16.gif)      | Gold Double Sided Axe | 25,397 |
 | ![Silver Double Sided Axe+](https://data.tiep.me/assets/img/icons/small/rank_15.gif)      | Silver Double Sided Axe+ | 19,127 |
 | ![Silver Double Sided Axe](https://data.tiep.me/assets/img/icons/small/rank_14.gif)      | Silver Double Sided Axe | 12,947 |
-| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
-| ![Rank](imageurl)      | nameoftherank | GPPPPPP |
+| ![Metal Double Sided Axe+](https://data.tiep.me/assets/img/icons/small/rank_13.gif)      | Metal Double Sided Axe+ | 9,599 |
+| ![Metal Double Sided Axe](https://data.tiep.me/assets/img/icons/small/rank_12.gif)      | Metal Double Sided Axe | 6,900 |
 | ![Rank](imageurl)      | nameoftherank | GPPPPPP |
 | ![Rank](imageurl)      | nameoftherank | GPPPPPP |
 | ![Rank](imageurl)      | nameoftherank | GPPPPPP |
