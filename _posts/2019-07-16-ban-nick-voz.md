@@ -20,3 +20,18 @@ Join Date: 28-11-2007
 Member ID 43336
 
 profile https://forums.voz.vn/member.php?u=43336
+
+## Lý do bán
+
+- Đã không hoạt động từ lâu, kể từ 13-11-2014 at 22:56
+- Tình tình tài chính khó khăn, bán bớt tài sản để thu xếp các khoản nợ.
+
+## Contact
+
+Giá hữu nghị
+
+070-222-7255 (phone/zalo)
+
+hi@tiep.me
+
+fb.com/tiepdotme
