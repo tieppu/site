@@ -410,7 +410,7 @@ h3.no-span {
   display: table;
   white-space: nowrap;
   &:before, &:after {
-    border-top: 1px solid green;
+    border-top: 1px solid #bccabc;
     content: '';
     display: table-cell;
     position: relative;
