@@ -17,6 +17,8 @@ title: 🍻 Sponsors và đối tác tài trợ
 
 **AdSense** quảng cáo hiển thị trên website.
 
+**Khách hàng mua account** là bên nắm giữ 60% funding.
+
 ## tôi thấy nhiều ads trên màn hình điện thoại
 
 Phải, tiep.me buộc phải trở thành chỗ để các đại gia lớn quảng cáo để có thu nhập chi trả các chi phí bảo trì và cập nhật bài viết để mang lại nội dung cho bạn.
