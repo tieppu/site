@@ -11,7 +11,7 @@ title: 🍻 Sponsors và đối tác tài trợ
 
 **Netlify** cung cấp hệ thống server chạy website.
 
-**Namecheap** tên miền .me
+**Namecheap** tên miền .me miễn phí
 
 **Amazon Associates** affiliate tiếp thị liên kết với amazon và bán hàng cho amazon trên website.
 
