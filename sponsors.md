@@ -7,7 +7,7 @@ title: 🍻 Sponsors và đối tác tài trợ
 
 <sub>Lastest Update: 17 Jul 2019</sub>
 
-**GITHUB** nơi tài trợ bảo lưu hệ thống mã nguồn.
+**Github** nơi tài trợ bảo lưu hệ thống mã nguồn.
 
 **Netlify** cung cấp hệ thống server chạy website.
 
