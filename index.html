@@ -54,10 +54,14 @@ layout: default
 <hr />
 <h2 class="heading">Bài viết</h2> <a class="small" href="/feed.xml">feed</a>
 <ul class="list-notes">
-  {% for post in site.posts %}
+  {% for post in site.posts limit: 5 %}
     <li class="note">
       <time class="small">{{ post.date | date_to_string }}</time> <a href="{{ site.url }}{{ post.url }}" class="small"># {{ post.title }}</a>
       <div></div>
     </li>
   {% endfor %}
 </ul>
+
+{% if site.posts.size > 5 %}
+  <a class="small" href="/posts">Tất cả bài viết</a>
+{% endif %}
