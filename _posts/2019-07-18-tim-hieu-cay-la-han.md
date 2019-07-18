@@ -13,6 +13,9 @@ Tên khoa học: Momordica grosvenori Swingle., họ Bầu bí (Cucirbitaceae).
 
 ![La Hán Quả](https://data.tiep.me/assets/img/images/large/qualahan.jpg)
 
+Nếu bạn muốn tìm nơi bán hạt giống từ China, thanh toán bằng thẻ Visa, hay Master thì [**Luo Han Guo seek - hạt giống La Hán quả**](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20190718003803&SearchText=Luo+Han+Guo+seek&switch_new_app=y)
+
+hoặc mua luôn [**30 hạt giống La hán quả giá $6.12**](https://www.aliexpress.com/item/32918101506.html?spm=a2g0o.productlist.0.0.18f65955oIJeHL&algo_pvid=f2ca080a-82fc-4020-bd6d-4d91f1bc32ad&algo_expid=f2ca080a-82fc-4020-bd6d-4d91f1bc32ad-0&btsid=d257b55f-8a0a-40e1-8917-0b597f11f0d1&ws_ab_test=searchweb0_0%2Csearchweb201602_4%2Csearchweb201603_52)
 
 ## Mô tả
 
