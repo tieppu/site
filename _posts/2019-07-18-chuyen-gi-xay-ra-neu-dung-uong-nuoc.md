@@ -10,7 +10,7 @@ Chúng ta cần nước cho các mục đích khác nhau như tiêu hóa và bà
 
 Nước cũng là thành phần chính của máu.
 
-<iframe width="560px" height="315px" wmode="transparent" src="//www.youtube.com/embed/RJGmRij6Lq0?autoplay=1&cc_load_policy=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+<iframe width="560px" height="315px" wmode="transparent" src="//www.youtube.com/embed/7VMTtM5ob5Y?autoplay=1&cc_load_policy=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
 
 Tuy nhiên, mỗi ngày chúng ta mất khoảng 2 đến 3 lít nước qua mồ hôi, nước tiểu, hơi thở, v.v ... Do đó, để bù lại lượng nước mất, nếu chúng ta không uống đủ nước, chúng ta sẽ bị mất nước.
