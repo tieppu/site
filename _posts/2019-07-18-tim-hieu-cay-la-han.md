@@ -13,7 +13,7 @@ Tên khoa học: Momordica grosvenori Swingle., họ Bầu bí (Cucirbitaceae).
 
 ## Mô tả
 
-Nguyen ngoc tu 4Vị thuốc là quả có hình tròn hay hình tròn dài có đường kính 5 – 8cm, bề ngoài vỏ màu nâu vàng sẫm hoặc sắc nâu sẫm và bóng láng, trên vỏ cũng còn sót lại chút ít lông nhung và số ít có sọc dọc màu khá sẫm. Chóp phình to, giữa có vết gốc trụ hoa hình tròn, phần đáy hơi hẹp có vết cuống quả, chất giòn dễ vỡ, mặt trong quả có sắc trắng vàng, dạng xốp nhẹ, bóc bỏ vỏ ngoài thì bên trong thấy rõ 10 sợi vân dọc sống lưng. Hạt bẹt hình tròn chữ nhật hoặc tựa hình tròn, sắc nâu, rìa hơi dày, giữa hơi lõm, trong có 2 lá mầm, vị ngọt. Khi sử dụng làm thuốc nên chọn quả lớn tròn, cứng chắc, lắc không kêu, vỏ có màu nâu vàng mới là loại tốt.
+Vị thuốc là quả có hình tròn hay hình tròn dài có đường kính 5 – 8cm, bề ngoài vỏ màu nâu vàng sẫm hoặc sắc nâu sẫm và bóng láng, trên vỏ cũng còn sót lại chút ít lông nhung và số ít có sọc dọc màu khá sẫm. Chóp phình to, giữa có vết gốc trụ hoa hình tròn, phần đáy hơi hẹp có vết cuống quả, chất giòn dễ vỡ, mặt trong quả có sắc trắng vàng, dạng xốp nhẹ, bóc bỏ vỏ ngoài thì bên trong thấy rõ 10 sợi vân dọc sống lưng. Hạt bẹt hình tròn chữ nhật hoặc tựa hình tròn, sắc nâu, rìa hơi dày, giữa hơi lõm, trong có 2 lá mầm, vị ngọt. Khi sử dụng làm thuốc nên chọn quả lớn tròn, cứng chắc, lắc không kêu, vỏ có màu nâu vàng mới là loại tốt.
 
 ## Bộ phận dùng
 
