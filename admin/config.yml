@@ -22,6 +22,7 @@ collections:
   - name: "notes"
     label: "Notes"
     file: "_data/notes.yml"
+    folder: "_data" # The path to the folder where the documents are stored
     description: "Notes"
     fields:
       - name: content
