@@ -21,13 +21,17 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
   - name: "note"
     label: "Note"
-    files: "_data/notes.yml"
-     fields:
-      - name: content
-        label: Content
-        label_singular: "Content"
-        widget: list
-        fields:
-         - {label: "Publish Date", name: "date", widget: "datetime"}
-         - {label: "Slug", name: "slug", widget: "string"}
-         - {label: "Content", name: "content", widget: "markdown"}
+    files:
+       - name: "note"
+       label: "Note"
+       files: "_data/notes.yml"
+       description: "Note"
+       fields:
+         - name: content
+          label: Content
+          label_singular: "Content"
+          widget: list
+            fields:
+            - {label: "Publish Date", name: "date", widget: "datetime"}
+            - {label: "Slug", name: "slug", widget: "string"}
+            - {label: "Content", name: "content", widget: "markdown"}
