@@ -19,11 +19,11 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-  - name: "notes"
-    label: "Notes"
+  - name: "note"
+    label: "Note"
     file: "_data/notes.yml"
     folder: "_data" # The path to the folder where the documents are stored
-    description: "Notes"
+    description: "Note"
     fields:
       - name: content
         label: Content
@@ -31,4 +31,5 @@ collections:
         widget: list
         fields:
          - {label: "Publish Date", name: "date", widget: "datetime"}
+         - {label: "Slug", name: "slug", widget: "string"}
          - {label: "Content", name: "content", widget: "markdown"}
