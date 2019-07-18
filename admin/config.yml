@@ -19,3 +19,15 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+   - name: 'notes'
+     label: 'Notes'
+     file: '_data/notes.yml'
+     description: 'Notes'
+     fields:
+      - name: content
+        label: Content
+        label_singular: 'Content'
+        widget: list
+          fields:
+            - {label: "Content", name: "content", widget: "markdown"}
+            - {label: "Publish Date", name: "date", widget: "datetime"}
