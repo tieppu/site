@@ -57,7 +57,7 @@ layout: default
   {% for post in site.posts limit: 5 %}
     <li class="note">
       <time class="small">{{ post.date | date_to_string }}</time> <a href="{{ site.url }}{{ post.url }}" class="small"># {{ post.title }}</a>
-      <div></div>
+      <div>{{ post.content | strip_html | truncatewords:75 }}</div>
     </li>
   {% endfor %}
 </ul>
