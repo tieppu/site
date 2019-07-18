@@ -1,5 +1,5 @@
 ---
-default: default
+layout: default
 title: Tạo admin để đăng bài cho tiep.me
 date: 2019-07-18T11:23:22.642Z
 ---
