@@ -24,7 +24,7 @@ collections:
     files:
        - name: "note"
          label: "Note"
-         files: "_data/notes.yml"
+         file: "_data/notes.yml"
          description: "Note"
          fields:
            - name: content
