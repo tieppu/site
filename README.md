@@ -23,5 +23,5 @@ All other directories and files are MIT Licensed (where applicable).
 
 ## Me
 
-:wave: [@muanchiou](http://twitter.com/tiepdotme)
+:wave: [@tiepdotme](http://twitter.com/tiepdotme)
 :panda_face:
