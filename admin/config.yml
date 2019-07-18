@@ -22,8 +22,8 @@ collections:
   - name: "note"
     label: "Note"
     files: "_data/notes.yml"
-    description: "Note"
-    fields:
+     description: "Note"
+     fields:
       - name: content
         label: Content
         label_singular: "Content"
