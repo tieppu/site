@@ -4,6 +4,7 @@ title: câu tiếng Nhật giao tiếp hàng ngày thông dụng nhất
 date: 2019-07-19T03:40:59.516Z
 ---
 Những câu chào hỏi hằng ngày bằng tiếng Nhật
+một vài các biểu tượng symbol về đất nước Nhật bản bằng emoji 👹 👺 🧕 🧥 👘 🦈 🥞 🍜 🍥 🍣 🍱 🍙 🍘 🍢 🍡 🍶🗼 🎑🗻🗾🏯⛩ 💴🏺🎏r🎎🎌 🕉☸
 
 > おはようございます ohayogozaimasu / Chào buổi sáng
 
