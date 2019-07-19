@@ -38,3 +38,41 @@ trong bài viết này mình sẽ trình bày 2 cách khác nhau cho bạn lựa
 **Bước 3:** Đổ nước vừa đun sôi vào bình. Nhiệt độ để pha nước la hán quả nên tối thiểu là 70 độ, tốt nhất là đun sôi xong bạn nên dùng nước đó để pha luôn. Một quả la hán có thể pha với từ 1 đến 1,5 lít nước tùy thuộc vào khẩu vị. Bạn cũng có thể đun quả la hán trong nước sôi để nhanh được nước uống hơn.
 
 **Bước 4:** Hãm quả la hán với nước nóng khoảng 5-10 phút bạn đã có thức uống với hương vị thơm và ngọt tự nhiên của quả la hán rồi. Nếu thấy nước nhạt màu hay chưa ngọt thì dầm nhỏ miếng la hán quả ra và hãm thêm. Với cách nấu nước la hán quả này bạn không cần phải sử dụng thêm đường hay cam thảo để cho ngọt thêm. Nếu uống lạnh bạn có thể cho thêm đá.
+
+# Cách 2: Trà la hán quả nấu hoa cúc
+
+![Trà la hán quả nấu hoa cúc tiep.me](/images/media/lahanqua-2.jpg "Trà la hán quả nấu hoa cúc tiep.me")
+
+**Chuẩn bị Nguyên liệu**
+
+\- 1 quả la hán quả khô
+
+\- 25g hoa cúc
+
+\- Hoa cúc dùng nấu nước uống giúp thanh nhiệt, giải độc, mát gan, sáng mắt
+
+**Hướng dẫn thưc hiện**
+
+**Bước 1:** La hán quả thái 7-8 miếng. Hoa cúc rửa sạch.
+
+**Bước 2:** Cho la hán quả vào nồi cùng với 1,5 lít nước nấu trên lửa riu riu khoảng 30 phút. Sau đó, thả hoa cúc vào, nấu thêm 10 phút.
+
+**Bước 3:** Để nước nguội, lược qua rây, lấy phần nước trong. Cho nước la hán quả vào ngăn mát tủ lạnh, dùng thay nước lọc rất mát.
+
+# Tìm hiểu Công dụng của Quả La Hán
+
+![Công dụng của Quả La Hán tiep.me](/images/media/lahanqua-3.jpg "Công dụng của Quả La Hán tiep.me")
+
+**Chữa viêm họng:** la hán quả thái lát, sắc nước uống thay trà trong ngày.
+
+**Chữa mất tiếng:** la hán 1 quả, thái lát, thêm lượng nước thích hợp sắc lên, chờ nguội, chia ra uống nhiều lần, mỗi lần một ít.
+
+**Chữa ho gà (bách nhật khái):** la hán 1 quả, hồng khô 25g, sắc nước uống; hoặc dùng trái la hán 1 quả, phổi lợn 40g (bóp hết bọt), hầm chín, thêm gia vị vào ăn.
+
+**Chữa ho khạc ra đờm vàng đặc quánh:** Dùng quả la hán 20g, phối hợp với tang bạch bì (vỏ trắng rễ cây dâu tằm) 12g; sắc nước uống trong ngày.
+
+**Bổ phế, hỗ trợ trong điều trị ho lao:** La hán 60g, thịt lợn nạc 100g; 2 thứ đều thái lát, thêm lượng nước thích hợp, hầm chín, thêm chút muối, ăn trong bữa cơm.
+
+**Chữa táo bón:** dùng quả la hán sắc lấy nước, pha thêm mật ong uống trong ngày.
+
+**Quả la hán có tác dụng như loại "thực phẩm chức năng"**, thích hợp nhất với những người có thể chất "nhiệt". Với người bình thường, cũng có thể sử dụng như một loại nước uống giải khát trong những ngày trời nóng. Tuy nhiên, trung bình mỗi người nên dùng 1-2 quả sắc nước uống là phù hợp.
