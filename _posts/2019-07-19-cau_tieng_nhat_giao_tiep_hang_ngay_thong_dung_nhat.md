@@ -104,114 +104,90 @@ một vài các biểu tượng symbol về đất nước Nhật bản bằng e
 
 > 早 いご 回 復 を 祈 っています    Hayai ga kaisoku wo inotteimasu / Tôi hi vọng bạn sẽ mau qua khỏi
 
-44. 貴 方 は 正 しいです    Anata wa tadashidesu    
+> 貴 方 は 正 しいです    Anata wa tadashidesu / Bạn đúng rồi!
 
-Bạn đúng rồi!
+> 貴 方は間 違いです    Anata wa machigaidesu / Bạn sai rồi!
 
-45.貴 方は間 違いです    Anata wa machigaidesu    
+> 確 かではありませんが    Mashikade wa arimasen ka / Tôi không chắc.
 
-Bạn sai rồi!
+> 私  は、そう 思 いません    Watashi wa sou omoimasen / Tôi không nghĩ như vậy
 
-46. 確 かではありませんが    Mashikade wa arimasen ka    
+> そうではないと 思 います    Sou dewanai to omoimasu / Tôi e rằng không.
 
-Tôi không chắc.
+> 信 じられない    Shinzirarenai / Không thể tin được!
 
-47. 私  は、そう 思 いません    Watashi wa sou omoimasen    
+> 何 事 も上手くいきますよ    Nanikoto mo umaku ikimasuyo / Mọi thứ sẽ ổn thôi!
 
-Tôi không nghĩ như vậy
+> 落ち着け   Ochituke / Bình tĩnh lại!
 
-48.そうではないと 思 います    Sou dewanai to omoimasu    
+> 驚  いた       Odoroita / Bất ngờ quá!
 
-Tôi e rằng không.
+> 実 にお気の 毒    Zitu ni oki no doku / Tiếc quá!
 
-49. 信 じられない    Shinzirarenai    
+> 冗  談 でしょう    Zyoudandeshyou / Bạn đang đùa chắc!
 
-Không thể tin được!
+> わぁ、目 茶 苦 茶 だ    Waa, mechyakuchya / Oa, bừa bộn quá!
 
-50.何 事 も上手くいきますよ    Nanikoto mo umaku ikimasuyo    
-
-Mọi thứ sẽ ổn thôi!
-
-51. 落ち着け   Ochituke    
-
-Bình tĩnh lại!
-
-52. 驚  いた       Odoroita    
-
-Bất ngờ quá!
-
-53. 実 にお気の 毒    Zitu ni oki no doku    
-
-Tiếc quá!
-
-54.冗  談 でしょう    Zyoudandeshyou    
-
-Bạn đang đùa chắc!
-
-55.わぁ、目 茶 苦 茶 だ    Waa, mechyakuchya    
-
-Oa, bừa bộn quá!
-
-56.馬鹿だなぁ    Bakadanaa    
+> 馬鹿だなぁ    Bakadanaa    
 
 Ngu quá!
 
-57.もういい    Mouii    
+> もういい    Mouii    
 
 Đủ rồi!
 
-58.何 てこと    Nantekoto    
+> 何 てこと    Nantekoto    
 
 Ôi chúa ơi!
 
-59. すみません, もういちどおねがいします    Sumimasen, mou ichido onegaishimasu    
+> すみません, もういちどおねがいします    Sumimasen, mou ichido onegaishimasu    
 
 Xin lỗi, bạn có thể nhắc lại không?
 
-60.はじめましょう    Hazimemashyou    
+> はじめましょう    Hazimemashyou    
 
 Bắt đầu nào!
 
-61.おわりましょう    Owarimashyou    
+> おわりましょう    Owarimashyou    
 
 Kết thúc nào!
 
-62.やすみましょう    Yasumimashyou    
+> やすみましょう    Yasumimashyou    
 
 Nghỉ giảo lao nào!
 
-63, わかりますか    Wakarimasuka    
+> わかりますか    Wakarimasuka    
 
 Các bạn có hiểu không?
 
-64.けっこうです    Kekkoudesu    
+> けっこうです    Kekkoudesu    
 
 Được,tốt!
 
-65. だめです    Damedesu  
+> だめです    Damedesu  
 
 Không được!
 
-66. おねがいします    Onegaishimasu    
+> おねがいします    Onegaishimasu    
 
 Làm ơn
 
-67. いい てんき です ね    Iitenkidesune    
+> いい てんき です ね    Iitenkidesune    
 
 Thời tiết đẹp nhỉ
 
-68.ごめんください    Gomenkudasai    
+> ごめんください    Gomenkudasai    
 
 Có ai ở nhà không?
 
-69. どうぞ おあがりください    Douzo oagari kudasai    
+> どうぞ おあがりください    Douzo oagari kudasai    
 
 Xin mời anh chị vào nhà!
 
-70.いらっしゃい    Irasshyai    
+> いらっしゃい    Irasshyai    
 
 Rất hoan nghênh anh chị đến chơi!
 
-71.どうも、おじゅまします    Doumo ozyumashimasu    
+> どうも、おじゅまします    Doumo ozyumashimasu    
 
 Cảm ơn, tôi xin phép
