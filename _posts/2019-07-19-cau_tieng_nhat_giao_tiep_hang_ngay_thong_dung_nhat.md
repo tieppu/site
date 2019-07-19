@@ -5,197 +5,103 @@ date: 2019-07-19T03:40:59.516Z
 ---
 Những câu chào hỏi hằng ngày bằng tiếng Nhật
 
-> おはようございます ohayogozaimasu
+> おはようございます ohayogozaimasu / Chào buổi sáng
 
-Chào buổi sáng
+> こんにちは –konnichiwa / Xin chào, chào buổi chiều
 
-> こんにちは –konnichiwa
+> こんばんは – konbanwa / Chào buổi tối
 
-Xin chào, chào buổi chiều
+> おやすみなさい-oyasuminasai / Chúc ngủ ngon
 
-> こんばんは – konbanwa
+> さようなら-sayounara / Chào tạm biệt
 
-Chào buổi tối
+> ありがとう　ございます arigatou gozaimasu / Xin cảm ơn
 
-> おやすみなさい-oyasuminasai
+> すみません-sumimasen  / Xin lỗi…
 
-Chúc ngủ ngon
-
-> さようなら-sayounara
-
-Chào tạm biệt
-
-> ありがとう　ございます arigatou gozaimasu
-
-Xin cảm ơn
-
-> すみません-sumimasen 
-
-Xin lỗi…
-
-> おねがいします-onegaishimasu
-
-Xin vui lòng
+> おねがいします-onegaishimasu / Xin vui lòng
 
 ## Một số câu thường dùng trong lớp học
 
-> はじめましょう    hajimemashou    
+> はじめましょう    hajimemashou / Chúng ta bắt đầu nào
 
-Chúng ta bắt đầu nào
+> おわりましょう    owarimashou / Kết thúc nào
 
-> おわりましょう    owarimashou    
+> やすみましょう    yasumimashou / Nghỉ giải lao nào
 
-Kết thúc nào
+> おねがいします    onegaishimasu / Làm ơn
 
-> やすみましょう    yasumimashou  
+> ありがとうございます    arigatougozaimasu / Xin cảm ơn
 
-Nghỉ giải lao nào
+> きりつ    kiritsu! / Nghiêm !
 
-> おねがいします    onegaishimasu    
+> どうぞすわってください    douzo suwattekudasai / Xin mời ngồi
 
-Làm ơn
+> わかりますか    wakarimasuka / Các bạn có hiểu không ?
 
-> ありがとうございます    arigatougozaimasu    
+> はい、わかります    hai,wakarimasu / Tôi hiểu
 
-Xin cảm ơn
+> いいえ、わかりません    iie, wakarimasen / Không, tôi không hiểu
 
-> きりつ    kiritsu!    
+> もういちど    mou ichido / Lặp lại lẫn nữa…
 
-Nghiêm !
+> じょうずですね    jouzudesune / Giỏi quá
 
-> どうぞすわってください    douzo suwattekudasai    
+> いいですね    iidesune / Tốt lắm
 
-Xin mời ngồi
+> なまえ    namae / Tên
 
-> わかりますか    wakarimasuka    
+> しけん/しゅくだい    Shiken/shukudai / Kỳ thi/ Bài tập về nhà
 
-Các bạn có hiểu không ?
+> しつもん/こたえ/れい    Shitsumon/kotae/rei  / Câu hỏi/trả lời/ ví dụ
 
-> はい、わかります    hai,wakarimasu    
+## Trong cuộc sống hàng ngày
 
-Tôi hiểu
+> どう した？    Dou shita? / Sao thế?
 
-> いいえ、わかりません    iie, wakarimasen    
+> どう 致 しまして    Dou itashimashite / Không có chi.
 
-Không, tôi không hiểu
+> どうぞ、お 願 いします    Douzo onegaishimasu / Xin mời
 
-> もういちど    mou ichido    
+> さあ、どうぞ    Saa, douzo / Nó đây này
 
-Lặp lại lẫn nữa…
+> 分かりました    Wakarimashita / Tôi hiểu rồi.
 
-> じょうずですね    jouzudesune    
+> 分かりません    Wakarimasen / Tôi không hiểu
 
-Giỏi quá
+> 大  丈  夫 です    Daizyoubu desu / Được rồi, ổn, ok
 
-> いいですね    iidesune    
+> 幾 つありますか    Ikutu arimasuka / Bao nhiêu?
 
-Tốt lắm
+> どれくらいの時 間が掛かりますか    Dorekuraino zikan ga kakarimasu / Mất bao lâu?
 
-> なまえ    namae    
+> どれくらいの距 離がありますか    Dorekurai no hanare ga arimasu / Mất bao xa?
 
-Tên
+> 道 に 迷 いました    Michi ni mayoimashita / Tôi bị lạc.
 
-> しけん/しゅくだい    Shiken/shukudai    
+> どなたに聞けばいいでしょうか     Donata ni kikebaiideshyoka / Tôi nên hỏi ai?
 
-Kỳ thi/ Bài tập về nhà
+> お 先 にどうぞ    Osaki ni douzo / Xin mời đi trước
 
-> しつもん/こたえ/れい    Shitsumon/kotae/rei    
+> どなたですか    Donatadesuka / Ai?
 
-Câu hỏi/trả lời/ ví dụ
+> 何故ですか    Nazedesuka / Tại sao?
 
-Trong cuộc sống hàng ngày
+> 何 ですか    Nandesuka / Cái gì?
 
-> どう した？    Dou shita?    
+> 何時ですか    Itudesuka / Khi nào?
 
-Sao thế?
+> 待って    Matte / Khoan đã
 
-> どう 致 しまして    Dou itashimashite    
+> 見て    Mite / Nhìn kìa.
 
-Không có chi.
+> 助 けて    Nasukete / Giúp tôi với
 
-> どうぞ、お 願 いします    Douzo onegaishimasu    
+> どなたが英 語を 話 せますか    Donata ga eigo wo hanasemasu / Ai có thể nói tiếng Anh?
 
-Xin mời
+> 火事だ    Kazida / Cháy rồi
 
-> さあ、どうぞ    Saa, douzo    
-
-Nó đây này
-
-> 分かりました    Wakarimashita    
-
-Tôi hiểu rồi.
-
-> 分かりません    Wakarimasen    
-
-Tôi không hiểu
-
-> 大  丈  夫 です    Daizyoubu desu    
-
-Được rồi, ổn, ok
-
-> 幾 つありますか    Ikutu arimasuka    
-
-Bao nhiêu?
-
-> どれくらいの時 間が掛かりますか    Dorekuraino zikan ga kakarimasu    
-
-Mất bao lâu?
-
-> どれくらいの距 離がありますか    Dorekurai no hanare ga arimasu    
-
-Mất bao xa?
-
-> 道 に 迷 いました    Michi ni mayoimashita    
-
-Tôi bị lạc.
-
-> どなたに聞けばいいでしょうか     Donata ni kikebaiideshyoka    
-
-Tôi nên hỏi ai?
-
-> お 先 にどうぞ    Osaki ni douzo    
-
-Xin mời đi trước
-
-> どなたですか    Donatadesuka    
-
-Ai?
-
-> 何故ですか    Nazedesuka    
-
-Tại sao?
-
-> 何 ですか    Nandesuka    
-
-Cái gì?
-
-> 何時ですか    Itudesuka    
-
-Khi nào?
-
-> 待って    Matte    
-
-Khoan đã
-
-> 見て    Mite    
-
-Nhìn kìa.
-
-> 助 けて    Nasukete    
-
-Giúp tôi với
-
-> どなたが英 語を 話 せますか    Donata ga eigo wo hanasemasu  
-
- Ai có thể nói tiếng Anh?
-
-42.火事だ    Kazida    
-
-Cháy rồi
-
-43. 早 いご 回 復 を 祈 っています    Hayai ga kaisoku wo inotteimasu    
-
-Tôi hi vọng bạn sẽ mau qua khỏi
+> 早 いご 回 復 を 祈 っています    Hayai ga kaisoku wo inotteimasu / Tôi hi vọng bạn sẽ mau qua khỏi
 
 44. 貴 方 は 正 しいです    Anata wa tadashidesu    
 
