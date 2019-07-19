@@ -9,7 +9,7 @@ Cách nấu nước la hán quả thơm ngon, bổ dưỡng không chỉ đượ
 
 # Để tìm hiểu thêm về quả La hán
 
-bạn hãy xem bài viết này [Tìm hiểu về cây La Hán Quả](https://tiep.me/2019/07/18/tim-hieu-cay-la-han/).
+bạn hãy xem bài viết này [Tìm hiểu về cây La Hán Quả](https://tiep.me/2019/07/18/tim-hieu-cay-la-han/). trong bài viết đó, tôi cũng đã đính kèm cả thông tin tìm kiếm mua hạt giống quả la hán chất lượng, do ở VN mình số lượng người bán hiện hiếm. chủ yếu là mua và chuyển về từ Trung Quốc.
 
 # Cách nấu nước la hán quả
 
