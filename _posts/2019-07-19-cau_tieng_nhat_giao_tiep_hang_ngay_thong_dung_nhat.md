@@ -128,66 +128,34 @@ một vài các biểu tượng symbol về đất nước Nhật bản bằng e
 
 > わぁ、目 茶 苦 茶 だ    Waa, mechyakuchya / Oa, bừa bộn quá!
 
-> 馬鹿だなぁ    Bakadanaa    
+> 馬鹿だなぁ    Bakadanaa / Ngu quá!
 
-Ngu quá!
+> もういい    Mouii / Đủ rồi!
 
-> もういい    Mouii    
+> 何 てこと    Nantekoto / Ôi chúa ơi!
 
-Đủ rồi!
+> すみません, もういちどおねがいします    Sumimasen, mou ichido onegaishimasu / Xin lỗi, bạn có thể nhắc lại không?
 
-> 何 てこと    Nantekoto    
+> はじめましょう    Hazimemashyou / Bắt đầu nào!
 
-Ôi chúa ơi!
+> おわりましょう    Owarimashyou / Kết thúc nào!
 
-> すみません, もういちどおねがいします    Sumimasen, mou ichido onegaishimasu    
+> やすみましょう    Yasumimashyou / Nghỉ giảo lao nào!
 
-Xin lỗi, bạn có thể nhắc lại không?
+> わかりますか    Wakarimasuka / Các bạn có hiểu không?
 
-> はじめましょう    Hazimemashyou    
+> けっこうです    Kekkoudesu / Được,tốt!
 
-Bắt đầu nào!
+> だめです    Damedesu / Không được!
 
-> おわりましょう    Owarimashyou    
+> おねがいします    Onegaishimasu / Làm ơn
 
-Kết thúc nào!
+> いい てんき です ね    Iitenkidesune / Thời tiết đẹp nhỉ
 
-> やすみましょう    Yasumimashyou    
+> ごめんください    Gomenkudasai / Có ai ở nhà không?
 
-Nghỉ giảo lao nào!
+> どうぞ おあがりください    Douzo oagari kudasai / Xin mời anh chị vào nhà!
 
-> わかりますか    Wakarimasuka    
+> いらっしゃい    Irasshyai / Rất hoan nghênh anh chị đến chơi!
 
-Các bạn có hiểu không?
-
-> けっこうです    Kekkoudesu    
-
-Được,tốt!
-
-> だめです    Damedesu  
-
-Không được!
-
-> おねがいします    Onegaishimasu    
-
-Làm ơn
-
-> いい てんき です ね    Iitenkidesune    
-
-Thời tiết đẹp nhỉ
-
-> ごめんください    Gomenkudasai    
-
-Có ai ở nhà không?
-
-> どうぞ おあがりください    Douzo oagari kudasai    
-
-Xin mời anh chị vào nhà!
-
-> いらっしゃい    Irasshyai    
-
-Rất hoan nghênh anh chị đến chơi!
-
-> どうも、おじゅまします    Doumo ozyumashimasu    
-
-Cảm ơn, tôi xin phép
+> どうも、おじゅまします    Doumo ozyumashimasu / Cảm ơn, tôi xin phép
