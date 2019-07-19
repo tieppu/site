@@ -15,7 +15,7 @@
       <meta content="article" property="og:type">
       <meta content="{{ page.title }} - {{ site.title }}" property="og:title">
       {% if page.image %}
-        <meta content="http://tiep.me/images/{{ page.image }}" property="og:image">
+        <meta content="https://tiep.me/images/{{ page.image }}" property="og:image">
       {% endif %}
       <title>{{ page.title }} - {{ site.title }}</title>
     {% else %}
@@ -24,7 +24,11 @@
       <meta content="{{ site.url }}" property="og:url">
       <meta content="{{ site.description }}" property="og:description">
       <meta content="blog" property="og:type">
-      <meta content="http://tiep.me/images/{{ page.image }}" property="og:image">
+      <meta content="https://tiep.me/images/{{ page.image }}" property="og:image">
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:image" content="https://tiep.me/images/{{ page.image }}">
+      <meta name="twitter:site" content="@tiepdotme">
+      <meta name="twitter:creator" content="@tiepdotme">
     {% endif %}
     <!-- - -->
   </head>
