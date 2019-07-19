@@ -2,7 +2,7 @@ title:            Phạm Xuân Tiếp
 description:      Tiếp là ai, who is Tiep?
 url:              https://www.tiep.me
 permalink:        pretty
-timezone:         America/New_York
+timezone:         Asia/Ho_Chi_Minh
 sass:
   sass_dir: assets
   style: :compressed
