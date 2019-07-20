@@ -5,39 +5,39 @@ date: 2019-07-20T13:30:40.901Z
 ---
 Bao gồm nhiều ngạn ngữ dân gian phản ánh đời sống tâm lý của người dân TQ trong xã hội xưa, “ Tăng quảng hiền văn” là sự thể hiện tư tưởng của Nho Giáo, Đạo Giáo, Lão Giáo, mang tính triết lý cao.
 
-1 Tích thì hiền văn, hối nhữ truân truân, tập vận tăng quảng, đa kiến đa văn.
+**1 Tích thì hiền văn, hối nhữ truân truân, tập vận tăng quảng, đa kiến đa văn.**
 
 Lời hay thuở trước, răn dạy chúng ta, theo vần cóp nhặt, hiểu biết rộng ra.
 
-2 Quan kim nghi giám cổ, vô cổ bất thành kim.
+**2 Quan kim nghi giám cổ, vô cổ bất thành kim.**
 
 Xem nay nên xét xa xưa, ngày xưa chẳng có thì giờ có đâu.
 
-3 Tri kỷ tri bỉ , tương tâm tỷ tâm.
+**3 Tri kỷ tri bỉ , tương tâm tỷ tâm.**
 
 Biết mình phải biết người ta, đem lòng mình để suy ra lòng người.
 
-4 Tửu phùng tri kỷ ẩm, thi hướng hội nhân ngâm.
+**4 Tửu phùng tri kỷ ẩm, thi hướng hội nhân ngâm.**
 
 Gặp người tri kỷ ta nâng cốc, thơ chỉ bình ngâm mới bạn hiền.
 
-5 Tương thức mãn thiên hạ, tri tâm năng kỷ nhân.
+**5 Tương thức mãn thiên hạ, tri tâm năng kỷ nhân.**
 
 Đầy trong thiên hạ người quen biết, tri kỷ cùng ta được mấy người.
 
-6 Tương phùng hảo tự sơ tương thức, đáo lão chung vô oán hận tâm.
+**6 Tương phùng hảo tự sơ tương thức, đáo lão chung vô oán hận tâm.**
 
 Gặp lại vui như ngày mới biết, chẳng chút ăn năn trọn tới già.
 
-7 Cận thủy tri ngư tính, cận sơn thức điểu âm
+**7 Cận thủy tri ngư tính, cận sơn thức điểu âm**
 
 Gần nước biết tính cá, gần núi hiểu tiếng chim
 
-8 Dị trướng dị thoái sơn khê thủy, dị phản dị phúc tiểu nhân tâm.
+**8 Dị trướng dị thoái sơn khê thủy, dị phản dị phúc tiểu nhân tâm.**
 
 Đầy nhanh rút chóng suối rừng, dễ dàng tráo trở là lòng tiểu nhân.
 
-9 Vận khứ kim thành thiết, thời lai thiết tự kim.
+**9 Vận khứ kim thành thiết, thời lai thiết tự kim.**
 
 Ðộc thư tu dụng ý, nhứt tự trị thiên kim.
 
@@ -45,47 +45,47 @@ Vận hội lỡ làng vàng hoá sắt, thời cơ may mắn sắt như vàng.
 
 Đọc sách nghiền ngẫm kỹ càng, một chữ đáng giá nghìn vàng hỡi ai.
 
-10 Phùng nhân thả thuyết tam phân thoại, vị khả toàn phao nhứt phiến tâm.
+**10 Phùng nhân thả thuyết tam phân thoại, vị khả toàn phao nhứt phiến tâm.**
 
 Gặp nhau trò chuyện đôi câu, chớ nên gan ruột gót đầu phơi ra.
 
-11 Hữu ý tài hoa hoa bất phát, vô tâm sáp liễu liễu thành âm.
+**11 Hữu ý tài hoa hoa bất phát, vô tâm sáp liễu liễu thành âm.**
 
 Dụng ý trồng hoa hoa chẳng mọc, vô tâm cắm liễu liễu lên um.
 
-12 Họa hổ họa bì nan họa cốt, tri nhơn tri diện bất tri tâm.
+**12 Họa hổ họa bì nan họa cốt, tri nhơn tri diện bất tri tâm.**
 
 Hổ vẽ da khó vẽ xương, con người biết mặt biết lòng làm sao.
 
-13 Tiền tài như phấn thổ, nhân nghĩa trị thiên kim.
+**13 Tiền tài như phấn thổ, nhân nghĩa trị thiên kim.**
 
 Tiền của như đất bên đàng, nhân nghĩa mới thực ngàn vàng trong tay.
 
-14 Lưu thủy hạ than phi hữu ý, bạch vân xuất tụ bản vô tâm.
+**14 Lưu thủy hạ than phi hữu ý, bạch vân xuất tụ bản vô tâm.**
 
 Nước trôi cuối bãi đâu tình ý, mây tụ đầu non vốn tự nhiên.
 
-15 Đương thời nhược bất đăng cao vọng, thùy tín đông lưu hải dương thâm.
+**15 Đương thời nhược bất đăng cao vọng, thùy tín đông lưu hải dương thâm.**
 
 Chẳng đứng cao để ngắm trông, nào ai tin được biển Đông sâu vời.
 
-16 Lộ dao tri mã lực, sự cửu kiến nhân tâm.
+**16 Lộ dao tri mã lực, sự cửu kiến nhân tâm.**
 
 Đường xa biết sưc ngựa tài, việc lâu mới thấy lòng người dở hay.
 
-17 Lưỡng nhân nhất ban tâm, hữu tiền kham mãi kim.
+**17 Lưỡng nhân nhất ban tâm, hữu tiền kham mãi kim.**
 
 Hai người khi đã thật lòng, có tiền nên sắm vàng ròng chả sao.
 
-18 Nhất nhân nhất ban tâm, vô tiền khan mãi châm.
+**18 Nhất nhân nhất ban tâm, vô tiền khan mãi châm.**
 
 Mỗi người một dạ khác nhau, không tiền cũng cố mà cầu mua kim.
 
-19 Tương kiến dị đắc hảo, cửu trụ nan vi nhơn.
+**19 Tương kiến dị đắc hảo, cửu trụ nan vi nhơn.**
 
 Mới gặp nhau tốt dễ dàng, ở lâu chưa hẳn sẵn sàng vì nhau.
 
-20 Mã hành vô lực giai nhân sấu, nhân bất phong lưu chỉ vi bần.
+**20 Mã hành vô lực giai nhân sấu, nhân bất phong lưu chỉ vi bần.**
 
 Ngựa không sức chạy do gầy yếu, người chẳng phong lưu chỉ vì nghèo.
 
