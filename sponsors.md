@@ -24,3 +24,5 @@ title: 🍻 Sponsors và đối tác tài trợ
 Phải, tiep.me buộc phải trở thành chỗ để các đại gia lớn quảng cáo để có thu nhập chi trả các chi phí bảo trì và cập nhật bài viết để mang lại nội dung cho bạn.
 
 Chúng tôi không tự sinh lời, chính hành vi giúp đỡ của bạn khi lựa chọn quảng cáo đã tiếp tay cho tiep.me sống sót.
+
+Chúng tôi cũng cố sắp xếp vị trí quảng cáo để tránh làm rối mắt, cũng như tránh đi việc tạo ra cảm xúc khó chịu, luôn cố gắng làm nó thân thiện hơn chút.
