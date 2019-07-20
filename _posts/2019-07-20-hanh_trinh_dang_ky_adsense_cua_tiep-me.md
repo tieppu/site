@@ -1,0 +1,12 @@
+---
+layout: default
+title: Hành trình đăng ký adsense của tiep.me
+date: 2019-07-20T12:27:24.798Z
+---
+Bắt đầu đăng ký adsense cho tiep.me từ hôm 11/7/2019, nhưng thú thực là không mấy tự tin lắm, vì trước giờ GA (Google Adsense) vốn dĩ không mấy thiện cảm với mấy trang web của cá nhân và chỉ viết...nhật ký. chẳng nhiều nhặt gì ngoài mấy cái CV, history đã từng trải qua, và vài thông tin personal..
+
+Giả sử là được chấp nhận đi nữa, thì cũng còn cả núi hành trình dài để làm sao tạo ra thu nhập từ adsense của trang mình mà thực sự cũng không có kinh nghiệm gì lắm, trong khi ngành web trong nước đang lao đao về facebook, mạng xã hội đã chiếm sạch người dùng :D haha.
+
+Dẫu sao thì, có tin tức gì mới, mình cũng chia sẻ cùng các bạn, riêng bản thân mình thì không chơi kéo view lắm, để mặc mọi thứ tự nhiên, nếu kiếm được thì kiếm được, không được thì coi như một kỷ niệm đẹp với lần đầu tiên chơi domain mang tên cá nhân vậy.
+
+Đời này sống được bao nhiêu.
