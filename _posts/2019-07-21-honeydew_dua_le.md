@@ -3,11 +3,11 @@ layout: default
 title: Honeydew Dưa lê
 date: 2019-07-21T07:55:16.167Z
 ---
-**Dưa lê** là một trong những trái cây thuộc họ nhà dưa, có vị ngọt khi chín. Loại trái cây phổ biến ở châu Á mùa hè này không chỉ mang vị thơm, ngon ngọt mà còn mang lại nhiều lợi ích cho sức khỏe.
+**Dưa lê** 🍈 🍈 🍈 là một trong những trái cây thuộc họ nhà dưa, có vị ngọt khi chín. Loại trái cây phổ biến ở châu Á mùa hè này không chỉ mang vị thơm, ngon ngọt mà còn mang lại nhiều lợi ích cho sức khỏe.
 
 ![quả Honeydew Dưa lê tiep.me](/images/media/honeydew.jpg "quả Honeydew Dưa lê tiep.me")
 
-Giá trị dinh dưỡng
+Giá trị dinh dưỡng của 🍈
 
 | Giá trị dinh dưỡng (100gr) | Gr  | Kcal |
 | -------------------------- | --- | ---- |
@@ -16,7 +16,7 @@ Giá trị dinh dưỡng
 | Protein                    | 0,5 |      |
 | Chất béo                   | 0,1 |      |
 
-# Tác dụng
+# Tác dụng 🍈
 
 \- Dưa lê có hàm lượng vitamin A, B, C và chất khoáng như magie, natri khá cao, không có cholesterol. Những người muốn giảm cân nên bổ sung dưa lê vào thực đơn ăn kiêng.
 
@@ -40,10 +40,16 @@ Dưa lê dùng làm trái cây tráng miệng, xay sinh tố làm thức uống 
 
 
 
-# Cách trồng và chăm sóc
+# Cách trồng và chăm sóc 🍈
 
 ![Cây dưa lê nhà mình vô tình trồng được tiep.me](/images/media/duale1.jpg "Cây dưa lê nhà mình vô tình trồng được tiep.me")
 
-_Đây là cây Dưa lê mà mình "vô tình" gieo được sau khi ăn xong trái và quăng hạt một cách... bừa bãi vào trong chậu, vì nghĩ rằng thử xem như thế nào, được thì tốt không được thì có một bài học để chia sẻ cùng với các bạn,_
+_Đây là cây Dưa lê 🍈 mà mình "vô tình" gieo được sau khi ăn xong trái và quăng hạt một cách... bừa bãi vào trong chậu, vì nghĩ rằng thử xem như thế nào, được thì tốt không được thì có một bài học để chia sẻ cùng với các bạn._
+
+![Dưa lê cho trái gần thu hoạch được luôn rồi tiep.me](/images/media/duale2.jpg "Dưa lê cho trái gần thu hoạch được luôn rồi tiep.me")
+
+_Cho trái🍈🍈🍈  gần...thu hoạch luôn rồi chứ hihi 🍈 😌😌😌_
+
+
 
 và quả nhiên là có thành quả 🤣 và cả bài học hướng dẫn cho bạn luôn nè hihi 😌😌😌
