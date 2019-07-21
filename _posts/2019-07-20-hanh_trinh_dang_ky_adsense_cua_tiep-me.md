@@ -16,3 +16,9 @@ cập nhật hôm 21/7/2019: vẫn đang chờ kích hoạt, hiện tại vẫn 
 Rank alexa quốc tế : **4,733,129**
 
 Rank trong nước: **30,493**
+
+**Cập nhật hôm 22/7/2019, vẫn chờ kích hoạt, có vẻ đăng ký khó khăn hơn trước, trong khi nghề adsense đang dần lụi tàn, khi số lượng khách hàng mua account giảm mạnh trong nhiều năm qua, rất nhiều thành viên rời bỏ làm.**
+
+Rank alexa quốc tế : **4,732,267**
+
+Rank trong nước: **30,493**
