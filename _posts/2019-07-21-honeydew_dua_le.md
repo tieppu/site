@@ -37,3 +37,9 @@ Dưa lê có 2 loại phổ biến là dưa da trơn và dưa da sần.
 Cách sử dụng
 
 Dưa lê dùng làm trái cây tráng miệng, xay sinh tố làm thức uống giải khát...
+
+
+
+# Cách trồng và chăm sóc
+
+AAAA
