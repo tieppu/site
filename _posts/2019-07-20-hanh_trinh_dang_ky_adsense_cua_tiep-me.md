@@ -9,4 +9,8 @@ Giả sử là được chấp nhận đi nữa, thì cũng còn cả núi hành
 
 Dẫu sao thì, có tin tức gì mới, mình cũng chia sẻ cùng các bạn, riêng bản thân mình thì không chơi kéo view lắm, để mặc mọi thứ tự nhiên, nếu kiếm được thì kiếm được, không được thì coi như một kỷ niệm đẹp với lần đầu tiên chơi domain mang tên cá nhân vậy.
 
-Đời này sống được bao nhiêu.
+Đời này sống được bao nhiêu...
+
+
+
+cập nhật hôm 21/7/2019: vẫn đang chờ kích hoạt, hiện tại vẫn chưa thấy google có động tĩnh gì, nhiều khả năng là khó đăng ký hơn trước do google cập nhật thuật toán mới cho adsense.
