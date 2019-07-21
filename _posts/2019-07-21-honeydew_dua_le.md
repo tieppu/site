@@ -42,4 +42,8 @@ Dưa lê dùng làm trái cây tráng miệng, xay sinh tố làm thức uống 
 
 # Cách trồng và chăm sóc
 
-AAAA
+![Cây dưa lê nhà mình vô tình trồng được tiep.me](/images/media/duale1.jpg "Cây dưa lê nhà mình vô tình trồng được tiep.me")
+
+_Đây là cây Dưa lê mà mình "vô tình" gieo được sau khi ăn xong trái và quăng hạt một cách... bừa bãi vào trong chậu, vì nghĩ rằng thử xem như thế nào, được thì tốt không được thì có một bài học để chia sẻ cùng với các bạn,_
+
+và quả nhiên là có thành quả 🤣 và cả bài học hướng dẫn cho bạn luôn nè hihi 😌😌😌
