@@ -53,3 +53,15 @@ và quả nhiên là có thành quả 🤣 và cả bài học hướng dẫn ch
 **Chú ý: là bạn nên bón thêm phân chuồng khô, lân, đạm, PNK nếu muốn có nhiều trái hơn đạt chất lượng và ngọt hơn, và quan trọng nhất là tưới thường xuyên.**
 
 Gieo thì cứ gieo hạt vào chậu và cho nó một cái điểm tựa để leo vì đây là cây dạng leo  _🍈_ bạn ahh
+
+và, dù gieo loại hạt giống dưa lê nào bạn cũng nên thuộc câu thần chú này nhé:
+
+> Nhất nước, nhì phân, tam cần, tứ giống.
+
+Vị trí đầu là nước: vì nước cho vạn vật được sinh sôi nảy nở và tồn tại, nơi có nước tưới tiêu tốt thì cây dễ phát triển mạnh.
+
+Nhì phân: thì phân tốt nhiều chất dinh dưỡng chỉ xếp thứ 2, vì nó dùng để tăng năng suất cây trồng, còn muốn cây nảy nở trước hết vẫn là nước đứng đầu.
+
+Tam cần: câu này chưa rõ nghĩa lắm, nhưng tạm hiểu được là phải chuyên cần
+
+Tứ giống: là giống tốt hay không tốt chỉ xếp cuối cùng thôi...
