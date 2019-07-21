@@ -11,6 +11,8 @@ Dẫu sao thì, có tin tức gì mới, mình cũng chia sẻ cùng các bạn,
 
 Đời này sống được bao nhiêu...
 
-
-
 cập nhật hôm 21/7/2019: vẫn đang chờ kích hoạt, hiện tại vẫn chưa thấy google có động tĩnh gì, nhiều khả năng là khó đăng ký hơn trước do google cập nhật thuật toán mới cho adsense.
+
+Rank alexa quốc tế : **4,733,129**
+
+Rank trong nước: **30,493**
