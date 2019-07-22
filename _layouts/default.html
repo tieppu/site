@@ -9,6 +9,8 @@
     <link rel="authorization_endpoint" href="https://github-indieauth.herokuapp.com/auth">
     <link rel="token_endpoint" href="https://github-indieauth.herokuapp.com/token">
     <link rel="micropub" href="https://muan-micropub.glitch.me/micropub">
+    <!-- verify some apps outside that count views for tiep.me -->
+    <meta name="p:domain_verify" content="0144cad5e1f339198eadae8da4c72602"/>
     {% if page.date %}
       <meta content="{{ site.url }}{{ page.url }}" property="og:url">
       <meta content="{{ page.content | strip_html | strip_newlines | truncate: 120 }}" property="og:description">
