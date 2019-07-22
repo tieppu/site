@@ -12,3 +12,9 @@ Bởi ngoài việc trồng cây là một sở thích, nó còn góp phần t�
 **Chuản bị chậu trồng cây**
 
 không lan man nữa mình vào chủ đề chính nhé,
+
+## Yêu cầu chung:
+
+\- Sử dụng vật liệu thân thiện môi trường, và có sẵn tại địa phương hoặc trong nước.
+
+\- Dễ làm, tận dụng được.
