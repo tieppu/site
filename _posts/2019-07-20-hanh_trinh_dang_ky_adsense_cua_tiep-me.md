@@ -22,3 +22,9 @@ Rank trong nước: **30,493**
 Rank alexa quốc tế : **4,732,267**
 
 Rank trong nước: **30,493**
+
+**Cập nhật hôm 23/7/2019: hiện vẫn đang chờ Google kích hoạt tài khoản.**
+
+Rank alexa quốc tế : **3,520,042** 
+
+Rank trong nước: **20,811**
