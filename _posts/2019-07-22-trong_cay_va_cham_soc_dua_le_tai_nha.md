@@ -65,6 +65,10 @@ Sau khi trồng hơn 2 tháng, lúc d­ua lê bắt đầu có lứa hoa đầu 
 
 Sau khi trồng từ 80-90 ngày bạn sẽ được thu hoạch được những quả dưa lê. Dưa lê khi chín có mùi thơm nhẹ hấp dẫn. Quả tròn đều, da căng bóng cầm chắc tay và có phần dưới hơi lồi ra.
 
+Quả chưa chín thường vỏ ngoài có màu xanh, nếu như hái quá sớm thì quả sẽ không có vị ngọt và khá đắng.
+
+Quả chín là khi vỏ ngoài màu trắng rõ ràng, sáng và bóng.
+
 
 
 **Để giống**
